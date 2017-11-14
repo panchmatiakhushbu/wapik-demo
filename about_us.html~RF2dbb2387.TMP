@@ -1,0 +1,140 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+<script src="js/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+</head>
+<body>
+<div class="header_about">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 col-sm-12 col-xs-12">
+        <div class="menu1">
+          <div class="col-md-4 col-sm-4 col-xs-12">
+            <div class="icon">
+              
+              <h6><img src="images/logo.png" />&nbsp; +62 202 555 0117</h6>
+            </div>
+          </div>
+          <div class="col-md-8 col-sm-8 col-xs-12">
+            <div class="menu_list">
+              <ul class="list">
+                <li><a href="#">Home</a></li>
+                <li><a href="#" class="active">About Us</a></li>
+                <li><a href="#">Pricing</a></li>
+                <li><a href="#">Contact Us</a></li>
+                <li><a href="#">Get Started</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="contain">
+        <div class="col-md-12 col-sm-12 col-xs-12">
+          <div class="c2">
+            <p>Cras justo odio, dapibus ac facilisis in
+egestas eget quam</p>
+            <button type="button" class="btn btn-success">START YOUR FREE TRIAL</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="section_about">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 col-sm-12 col-xs-12">
+        <div class="a1">
+          <h5>About Us</h5>
+        </div>
+        <div class="line"></div>
+        <div class="a2">
+          <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Nullam id dolor id nibh ultricies vehicula ut id elit. Vestibulum id ligula porta felis euismod semper. Donec ullamcorper nulla non metus auctor fringilla..</p>
+        </div>
+      </div>
+      <div class="col-md-12 col-sm-12 col-xs-12">
+        <div class="col-md-4 col-sm-4 col-xs-12">
+          <div class="part1"> <img src="images/f1.png" />
+            <h6>Ionicons</h6>
+            <p>Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Aenean eu leo quam. Pellentesque ornare sem.</p>
+          </div>
+        </div>
+        <div class="col-md-4 col-sm-4 col-xs-12">
+          <div class="part1"> <img src="images/f2.png" />
+            <h6>Creative Design</h6>
+            <p>Maecenas faucibus mollis interdum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</p>
+          </div>
+        </div>
+        <div class="col-md-4 col-sm-4 col-xs-12">
+          <div class="part1"> <img src="images/f3.png" />
+            <h6>Photoshop and Sketch</h6>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+          </div>
+        </div>
+      </div> 
+</div>
+</div>
+</div>
+
+
+
+<div class="section_meet">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 col-sm-12 col-xs-12">
+        <div class="a1">
+          <h5>Meet Our Team</h5>
+        </div>
+        <div class="line"></div>
+        <div class="a2">
+          <p>Curabitur blandit tempus porttitor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+        </div>
+      </div>
+      <div class="col-md-12 col-sm-12 col-xs-12">
+        <div class="col-md-4 col-sm-4 col-xs-12">
+          <div class="part1"> <img src="images/g1.png" />
+            <h6>Joyce Hudson</h6>
+            <p>Founder & Designer</p>
+          </div>
+        </div>
+        <div class="col-md-4 col-sm-4 col-xs-12">
+          <div class="part1"> <img src="images/g2.png" />
+            <h6>Angela Campbell</h6>
+            <p>Project Manager</p>
+          </div>
+        </div>
+        <div class="col-md-4 col-sm-4 col-xs-12">
+          <div class="part1"> <img src="images/g3.png" />
+            <h6>James Walker</h6>
+            <p>Developer</p>
+          </div>
+        </div>
+      </div> 
+</div>
+</div>
+</div>
+
+<div class="section_green">
+<div class="container">
+<div class="row">
+	<div class="col-md-12 col-sm-12 col-xs-12">
+    <div class="col-md-8 col-sm-8 col-xs-12">
+    	<div class="green_info">
+        	<h5>Do You Like Wapik? Download it Now</h5>
+            <p>Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.</p>
+            <input type="button" class="button" value="DOWNLOAD NOW!  - FREE FOREVER">
+
+        </div>
+    </div>
+    </div>
+</div>
+</div>
+</div>
+
+</html>

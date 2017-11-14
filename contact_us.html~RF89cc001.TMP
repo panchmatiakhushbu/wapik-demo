@@ -1,0 +1,153 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+<script src="js/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+</head>
+<body>
+<div class="header_contact">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 col-sm-12 col-xs-12">
+        <div class="menu_contact">
+          <div class="col-md-4 col-sm-4 col-xs-12">
+            <div class="icon_contact">
+              <h5>WAPIK |</h5>
+              <h6><img src="images/phone.png" /> +62 202 555 0117</h6>
+            </div>
+          </div>
+          <div class="col-md-8 col-sm-8 col-xs-12">
+            <div class="menu_list_contact">
+              <ul class="list_contact">
+                <li><a href="Home">Home</a></li>
+                <li><a href="#">About Us</a></li>
+                <li><a href="#">Pricing</a></li>
+                <li><a href="#">Contact Us</a></li>
+                <li><a href="#" class="active">Get Started</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="section_map">
+</div>
+<div class="contact_section">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 col-sm-12 col-xs-12">
+        <div class="c1_contact">
+          <h5>Get In Touch With Us</h5>
+       
+        <div class="line_map"></div>
+        <div class="c2_contact">
+          <p>We are here to help. Want to learn more about our services?<br />
+Please get in touch, we'd love to hear from you!.</p>
+        </div>
+      </div>
+      
+      <div class="col-md-6 col-sm-6 col-xs-12">
+      		<div class="text">
+            	<input type="text" id="fname" name="" placeholder="Name">
+                <input type="text" id="fname" name="" placeholder="Email">
+                <input type="text" id="fname" name="" placeholder="Phone">
+                <input type="text1" id="fname" name="" placeholder="Message">
+				 <input type="submit" value="Send Message">
+            </div>
+      </div>
+      <div class="col-md-6 col-sm-6 col-xs-12">
+      		<div class="text1">
+            	<h4>Headquarter</h4>
+                <a href="#"><img src="images/map_icon.png" /></a><p>610 Overlook Circle<br />  Suite 323 <br />Kalamazoo, MI 49009</p>
+                <a href="#"><img src="images/phone_icon.png" /></a><h5>+62 202 555 0117</h5>
+                <a href="#"><img src="images/message_icon.png" /></a><h6>hi@wapik.com</h6>
+            </div>
+      </div>
+</div>
+</div>
+</div>
+<div class="con_back">
+<div class="container">
+    <div class="row">
+      <div class="col-md-12 col-sm-12 col-xs-12">
+        <div class="col-md-8 col-sm-8 col-xs-12">
+          <div class="gray_info">
+            <h5>Do You Like Wapik? Download it Now</h5>
+            <p>Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.</p>
+          </div>
+        </div>
+        <div class="col-md-4 col-sm-4 col-xs-12">
+          <input type="button" class="button_gray" value="DOWNLOAD NOW!  - FREE FOREVER" />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="section_footer">
+<div class="container">
+<div class="row">
+	<div class="col-md-12 col-sm-12 col-xs-12">
+    	<div class="col-md-3 col-sm-3 col-xs-12">
+        	<div class="info_ft1">
+            	<h4>wapik</h4>
+                <h5>@: hi@wapik.com </h5>
+                <h6>p: +62 202 555 0117 a: 610 </h6>
+                <p>a: 610 Overlook Circle Suite 323
+    Kalamazoo, MI 49009</p>
+            </div>   
+        </div>
+        
+        <div class="col-md-3 col-sm-3 col-xs-12">
+        	<div class="info_ft2">
+            	<h4>Company</h4>
+                <li>Home</li>
+                <li>About Us</li>
+                <li>Pricing</li>
+                <li>Contact Us</li>
+            </div>   
+        </div>
+        
+        
+        <div class="col-md-3 col-sm-3 col-xs-12">
+        	<div class="info_ft2">
+            	<h4>Others</h4>
+                <li>Help & Support</li>
+                <li>Privacy Policy</li>
+                <li>Terms</li>
+                <li>Sitemap</li>
+            </div>   
+        </div>
+        
+        <div class="col-md-3 col-sm-3 col-xs-12">
+        	<div class="info_ft4">
+            	<h4>Newsletter</h4>
+                <p>Subscribe to our newsletter and get all the cool news.</p>
+                <img src="images/email.png" />
+            </div>   
+        </div>
+        
+    </div>
+</div>
+</div>
+</div>
+<div class="footer">
+<div class="container">
+<div class="row">
+	<div class="col-md-12 col-sm-12 col-xs-12">
+    	
+        <div class="demo">
+        	<p>All rights reserved 2015.</p>
+            <img src="images/social.png" />
+        </div>
+    </div>
+</div>
+</div>
+</div>
+</body>
+</html>
